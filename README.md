@@ -13,4 +13,3 @@ A Customer 360 view aggregates data from various touchpoints to provide a compre
 - Apache Flink 1.18.1
 - OpenJDK 11.0.8+
 - Maven 3.6.3+
-
